@@ -1,5 +1,13 @@
-### Hi there 👋
+##Introduction
+안녕하세요
+컴퓨터공학도의 길을 걷고 있는 허주호입니다
 
+
+##Career
+영남대학교 컴퓨터공학과 재학 중
+
+##Link
+E-mai: hjh5938@gmail.com
 <!--
 **Heo1113/Heo1113** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
